@@ -176,9 +176,9 @@ __metadata:
   linkType: hard
 
 "diff@npm:^4.0.1":
-  version: 4.0.2
-  resolution: "diff@npm:4.0.2"
-  checksum: 10c0/81b91f9d39c4eaca068eb0c1eb0e4afbdc5bb2941d197f513dd596b820b956fef43485876226d65d497bebc15666aa2aa82c679e84f65d5f2bfbf14ee46e32c1
+  version: 4.0.4
+  resolution: "diff@npm:4.0.4"
+  checksum: 10c0/855fb70b093d1d9643ddc12ea76dca90dc9d9cdd7f82c08ee8b9325c0dc5748faf3c82e2047ced5dcaa8b26e58f7903900be2628d0380a222c02d79d8de385df
   languageName: node
   linkType: hard
 
@@ -236,12 +236,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"marked@npm:3.0.4":
-  version: 3.0.4
-  resolution: "marked@npm:3.0.4"
+"marked@npm:4.0.10":
+  version: 4.0.10
+  resolution: "marked@npm:4.0.10"
   bin:
-    marked: bin/marked
-  checksum: 10c0/2c31fab4d3a65a84895ad26e25b238baf93453ff8344df83bf79f4940636fde5bd744747261eba468f773f21124d7da10b2cf40d4101dbe71aa885f04e61db7b
+    marked: bin/marked.js
+  checksum: 10c0/137660cd1eca54cfcdcec9d9c7dea786fc57ba3663da9043b721aff4c1419fc869d21bc38f6d5907062b82d4ef354f4fcac6605cac5f4f9dc1595a743b856d91
   languageName: node
   linkType: hard
 
@@ -258,7 +258,7 @@ __metadata:
     dateformat: "npm:4.5.1"
     fs-extra: "npm:11.2.0"
     lodash-es: "npm:4.18.1"
-    marked: "npm:3.0.4"
+    marked: "npm:4.0.10"
     semver: "npm:7.5.4"
     ts-node: "npm:10.9.2"
     tslib: "npm:2.6.2"
